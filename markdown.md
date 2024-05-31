@@ -94,7 +94,7 @@ Insérez un accent grave __( \` )__ avant et après la chaîne de caractères à
 
 #### Méthode 1
 
-Ajoutez un carré (`#`) (_hashtag_) avant la chaîne caractères qui sera utilisée comme en-tête.
+Ajoutez un carré / croissilon / dièse  (`#`) (_hashtag_) avant la chaîne caractères qui sera utilisée comme en-tête.
 
 - Exemple :
 
@@ -291,9 +291,9 @@ Commencez une ligne avec le chiffre 1 suivi d'un point (`1.`) et faire un retour
 
 #### Gras
 
-Insérez un tiret bas (_underscore_) (`_ _`) au début et à la fin de la chaîne de caractères.
+Insérez un double tiret bas (_underscore_) (`__ __`) au début et à la fin de la chaîne de caractères.
 
-> Il est également possible d'utiliser un astérisque (`*`) au lieu du tiret.
+> Il est également possible d'utiliser deux astérisques `**` au lieu du tiret.
 
 ```
 __ABC__
@@ -307,9 +307,9 @@ __ABC__
 
 #### Italique
 
-Insérez un double tiret bas (_underscore_) (`__ __`) au début et à la fin de la châne de caractères.
+Insérez un tiret bas (_underscore_) (`_ _`) au début et à la fin de la chaîne de caractères.
 
-> Il est également possible d'utiliser un astérisque `*` au lieu du tiret.
+> Il est également possible d'utiliser un astérisque (`*`) au lieu du tiret.
 
 ```
 _ABC_
@@ -373,7 +373,7 @@ Référer à un fichier sur une autre branche | (/../documents/textes/test.md)
 
 ### Référer à une section d'un autre fichier
 
-Ajoutez un carré immédiatement après le lien du fichier et ajouter le nom de la section.
+Ajoutez un carré / croissilon / dièse immédiatement après le lien du fichier et ajouter le nom de la section.
 
 ```
  [lien](./test.md#Section1) 
